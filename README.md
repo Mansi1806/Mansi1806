@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mansi Agarwal
-- 👀 I’m interested in Machine Learning and Backend Development.
-- 🌱 I’m currently learning Machine Learning techniques, Cloud technologies and etc.
-- 💞️ I’m looking to collaborate on Kaggle Projects.
+- 👀 I’m interested in Operating System and Backend Development.
+- 🌱 I’m currently learning C Programming techniques
 - 📫 You can reach me on my email ma996@cornell.edu
 
 <!---
