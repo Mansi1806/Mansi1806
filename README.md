@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mansi Agarwal
-- 👀 I’m interested in Operating System and Backend Development.
-- 🌱 I’m currently learning C Programming techniques
+- 👀 I’m interested in Operating System 
 - 📫 You can reach me on my email ma996@cornell.edu
 
 <!---
